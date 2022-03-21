@@ -1,0 +1,1 @@
+- Tirar os registros nulos do target, interpolando os valores
