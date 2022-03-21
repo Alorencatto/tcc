@@ -1,1 +1,9 @@
 - Tirar os registros nulos do target, interpolando os valores
+- Estudar aspectos para o TCC:
+    Método de interpolação bfill, ffil ou spline (perguntar para Antônio)
+    TimeSeriesSplit : é o kfold para time series
+    Todos os parâmetros do Ramdom forest
+    LAG e ROLLING MEAN
+    Métricas de erro e backtest
+
+- joblib para salver o modelo
