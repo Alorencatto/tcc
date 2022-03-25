@@ -1,6 +1,7 @@
 # Conceitos
 
 - TimeSeriesSplit
+- Xgboost
 - Paramêtros Random Forest
 - LAG e ROLLING MEAN
   - REFS : https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/#:~:text=the%20next%20section.-,Lag%20Features,transformed%20into%20supervised%20learning%20problems.&text=The%20Pandas%20library%20provides%20the,from%20a%20time%20series%20dataset.
