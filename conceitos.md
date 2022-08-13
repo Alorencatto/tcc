@@ -1,6 +1,7 @@
 # Conceitos
 
 - TimeSeriesSplit
+  - https://medium.com/keita-starts-data-science/time-series-split-with-scikit-learn-74f5be38489e
 - Xgboost
 - Paramêtros Random Forest
 - LAG e ROLLING MEAN
@@ -11,3 +12,6 @@
   - 
 
 - Métricas de Erro
+  - https://towardsdatascience.com/time-series-forecast-error-metrics-you-should-know-cc88b8c67f27
+
+
